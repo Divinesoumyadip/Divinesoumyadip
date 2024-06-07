@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://repository-images.githubusercontent.com/443620153/e4b08970-8220-43a4-962f-d4db4f378d36" width="80%" height="20%">
 </div>
-<div align="center"><h1> 𝓗𝓲𝓲 𝓶𝔂 𝓼𝓮𝓵𝓯 𝓡𝓪𝓳 𝓢𝓪𝓱𝓪 - 𝙈𝙤𝙧𝙗𝙞𝙪𝙨 </h1></div>
+<div align="center"><h1> 𝓗𝓲𝓲 𝓶𝔂 𝓼𝓮𝓵𝓯 SOUMYADIP DAS MAHAPATRA - </h1></div>
 <div align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=08e8de&size=27&lines=Welcome+to+my+GITHUB+Profile!;I'm+a+Enthusiastic+Web+Developer" /></a>
 </div>
