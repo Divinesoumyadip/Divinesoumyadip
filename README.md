@@ -19,7 +19,7 @@
 </h3>  
 </div>
 <div  align="center">
-  <a href="https://my-portfolio-rj.vercel.app/"><img draggable="false" src="image/my port folio.png" width="19%"/></a>
+  <a href="https://soumyadip-dev.vercel.app//"><img draggable="false" src="image/my port folio.png" width="19%"/></a>
 </div>
 <div>
 <h2  align="center">
