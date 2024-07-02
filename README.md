@@ -10,6 +10,10 @@
 - 👨‍💻 All of my projects are available at [soumyadip.vercel.app](soumyadip.vercel.app)
 - [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+- <div align="Center">
+   <img src="https://github.com/bartick/bartick/blob/main/images/Greetings.gif?raw=true" width="75" style="max-width: 100%;">  
+<h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/https://www.geeksforgeeks.org/user/soumyadipdasm7239/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.geeksforgeeks.org/user/soumyadipdasm7239/" height="30" width="40" /></a>
