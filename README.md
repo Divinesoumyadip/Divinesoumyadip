@@ -14,6 +14,12 @@
    <img src="https://github.com/bartick/bartick/blob/main/images/Greetings.gif?raw=true" width="75" style="max-width: 100%;">  
 <h3>
 
+ Click Here 👇🏻
+</h3>  
+</div>
+<div  align="center">
+  <a href="https://my-portfolio-soumyadip.vercel.app/"><img draggable="false" src="image/my port folio.png" width="19%"/></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/https://www.geeksforgeeks.org/user/soumyadipdasm7239/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.geeksforgeeks.org/user/soumyadipdasm7239/" height="30" width="40" /></a>
