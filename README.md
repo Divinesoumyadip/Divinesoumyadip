@@ -143,13 +143,13 @@ const Soumyadip = {
 
 
 <!-- ICPC Achievement Section with 3D Effect -->
-<h2 align="center">🏆 ICPC AMRITAPURI REGIONALS</h2>
+<h2 align="center"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="75">&nbsp; ICPC AMRITAPURI REGIONALS</h2>
 <div align="center" style="perspective: 1000px;">
 
 ![icpc ok](https://github.com/user-attachments/assets/8070bfae-2f03-4010-b8e6-02ffb75fdef5)
 
 
-<h2 align="center">🏆 ICPC Achievement</h2>
+<h2 align="center"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="75">&nbsp; ICPC Achievement</h2>
 <div align="center" style="perspective: 1000px;">
  
 
@@ -179,15 +179,18 @@ const Soumyadip = {
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <!-- Featured Projects Section -->
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/94cc4424-9251-42ae-8782-92465d0a0043" width="75">&nbsp; Featured Projects</h2>
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
+ 
+
   <!-- Project Card 1 -->
+  
   <div style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 20px; text-align: left;">
     <h3 style="color: #c9d1d9; margin: 0;">
       <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/box.svg" width="20" style="filter: invert(100%); vertical-align: middle;">
-      Project Name
+      Divineshield   
     </h3>
-    <p style="color: #DIVINESHIELD; margin: 10px 0;">A brief description of your awesome project goes here.</p>
+    <p style="color: #DIVINESHIELD; margin: 10px 0;">DIVINEHIELD is an AI-powered women’s safety platform that provides real-time security features, emergency assistance, and secure travel solutions..</p>
     <div style="margin-top: 10px;">
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
