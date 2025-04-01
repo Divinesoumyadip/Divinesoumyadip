@@ -1,7 +1,12 @@
 <!-- Dynamic Header Animation -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Soumyadip%20&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" width="100%" alt="Header"/>
+</div>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900">
 </p>
+
+
 
 <!-- Animated Name Banner -->
 <p align="center">
