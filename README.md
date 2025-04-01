@@ -96,7 +96,7 @@ const Soumyadip = {
 
 <!-- Dynamic Stats Section -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-7f68-4d9e-9765-c538e10cadd5.png" width="100">
+  
   <h2>📊 Coding Stats</h2>
 </div>
 <!-- Animated Wave -->
@@ -114,7 +114,8 @@ const Soumyadip = {
 
 <!-- Codeforces Stats with Enhanced Design -->
 <div align="center">
-  <h3>⚡ Codeforces Progress</h3>
+  <h3>  Codeforces Progress</h3>
+
   <a href="https://codeforces.com/profile/Tier_3_failure">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Tier_3_failure&theme=radical&force_username=true" alt="Codeforces Stats" />
   </a>
