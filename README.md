@@ -184,7 +184,7 @@ const Soumyadip = {
         </td>
         <td align="center">
           <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/calendar.svg" width="20">
-          <b>2023</b>
+          <b>2024</b>
         </td>
       </tr>
     </table>
