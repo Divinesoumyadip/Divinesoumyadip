@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi🖖,+I'm+Soumyadip%20&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" width="100%" alt="Header"/>
 </div>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+![GITHUB](https://github.com/user-attachments/assets/ae99d705-af1b-419c-a1c3-aa7904dd1823)
 
  <!-- Quick Links -->
   <p align="center">
