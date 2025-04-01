@@ -3,7 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi🖖,+I'm+Soumyadip%20&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" width="100%" alt="Header"/>
 </div>
 
-![GITHUB](https://github.com/user-attachments/assets/ae99d705-af1b-419c-a1c3-aa7904dd1823)
+![TIKTIOK](https://github.com/user-attachments/assets/cccf6668-a5cf-47ba-9a7d-51b13fccb3ff)
+
 
  <!-- Quick Links -->
   <p align="center">
