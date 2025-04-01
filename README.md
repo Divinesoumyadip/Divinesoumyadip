@@ -118,6 +118,50 @@ const Soumyadip = {
   </a>
 </p>
 
+
+<!-- ICPC Achievement Section with 3D Effect -->
+<h2 align="center">🏆 ICPC Achievement</h2>
+<div align="center" style="perspective: 1000px;">
+  <div style="transform: rotateX(10deg) rotateY(5deg); transform-style: preserve-3d;">
+    <table align="center">
+      <tr>
+        <td align="center">
+          <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/trophy.svg" width="20">
+          <b>Regional Finalist</b>
+        </td>
+        <td align="center">
+          <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/map-pin.svg" width="20">
+          <b>Asia-Amritapuri</b>
+        </td>
+        <td align="center">
+          <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/calendar.svg" width="20">
+          <b>2023</b>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
+
+<!-- Interactive Game Section -->
+<h2 align="center">🎮 Let's Play!</h2>
+<div align="center">
+  <a href="https://github.com/Divinesoumyadip?tab=repositories">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=3DABFF&center=true&vCenter=true&width=435&lines=Click+to+see+my+projects!;Let's+build+something+cool!;Innovation+drives+me!;Always+learning%2C+always+growing!" alt="Typing SVG" />
+  </a>
+</div>
+
+<!-- GitHub Stats with 3D Contribution Graph -->
+<h2 align="center">📊 GitHub Analytics</h2>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Divinesoumyadip&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divinesoumyadip&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
 <!-- Connect Section with Dynamic Icons -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100">
