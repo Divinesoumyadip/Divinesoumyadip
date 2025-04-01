@@ -246,7 +246,7 @@ const Soumyadip = {
 <!-- Connect Section with Dynamic Icons -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100">
-  <h2>🤝 Let's Connect</h2>
+  <h2> <img src="https://user-images.githubusercontent.com/74038190/216649430-0a912dae-e61b-45cf-8f65-895bd6444f3a.gif" width="160" /> Let's Connect</h2>
 </div>
 
 <p align="center">
