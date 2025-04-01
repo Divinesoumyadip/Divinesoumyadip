@@ -143,8 +143,16 @@ const Soumyadip = {
 
 
 <!-- ICPC Achievement Section with 3D Effect -->
+<h2 align="center">🏆 ICPC AMRITAPURI REGIONALS</h2>
+<div align="center" style="perspective: 1000px;">
+
+![icpc ok](https://github.com/user-attachments/assets/8070bfae-2f03-4010-b8e6-02ffb75fdef5)
+
+
 <h2 align="center">🏆 ICPC Achievement</h2>
 <div align="center" style="perspective: 1000px;">
+ 
+
   <div style="transform: rotateX(10deg) rotateY(5deg); transform-style: preserve-3d;">
     <table align="center">
       <tr>
@@ -165,6 +173,8 @@ const Soumyadip = {
   </div>
 </div>
 
+
+
 <!-- Animated Wave -->
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
@@ -177,7 +187,7 @@ const Soumyadip = {
       <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/box.svg" width="20" style="filter: invert(100%); vertical-align: middle;">
       Project Name
     </h3>
-    <p style="color: #8b949e; margin: 10px 0;">A brief description of your awesome project goes here.</p>
+    <p style="color: #DIVINESHIELD; margin: 10px 0;">A brief description of your awesome project goes here.</p>
     <div style="margin-top: 10px;">
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
@@ -199,8 +209,7 @@ const Soumyadip = {
     </div>
   </div>
 </div>
-<!-- Animated Wave -->
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
 
 <!-- Interactive Game Section -->
 <h2 align="center">🎮 Let's Play!</h2>
@@ -227,11 +236,7 @@ const Soumyadip = {
 </div>
 
 
-<!-- Spotify Now Playing -->
-<h2 align="center">🎵 Vibing to</h2>
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" alt="Spotify Now Playing" />
-</div>
+
 <!-- Animated Wave -->
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
