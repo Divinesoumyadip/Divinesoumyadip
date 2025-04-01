@@ -5,7 +5,14 @@
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-
+ <!-- Quick Links -->
+  <p align="center">
+    <a href="#about-me">About</a> •
+    <a href="#skills">Skills</a> •
+    <a href="#achievements">Achievements</a> •
+    <a href="#projects">Projects</a> •
+    <a href="#connect">Connect</a>
+  </p>
 
 <!-- Dynamic Typing Animation -->
 <p align="center">
@@ -141,6 +148,35 @@ const Soumyadip = {
     </table>
   </div>
 </div>
+<!-- Featured Projects Section -->
+<h2 align="center">🚀 Featured Projects</h2>
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
+  <!-- Project Card 1 -->
+  <div style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 20px; text-align: left;">
+    <h3 style="color: #c9d1d9; margin: 0;">
+      <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/box.svg" width="20" style="filter: invert(100%); vertical-align: middle;">
+      Project Name
+    </h3>
+    <p style="color: #8b949e; margin: 10px 0;">A brief description of your awesome project goes here.</p>
+    <div style="margin-top: 10px;">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+    </div>
+  </div>
+  
+  <!-- Project Card 2 -->
+  <div style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 20px; text-align: left;">
+    <h3 style="color: #c9d1d9; margin: 0;">
+      <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/box.svg" width="20" style="filter: invert(100%); vertical-align: middle;">
+      Project Name
+    </h3>
+    <p style="color: #8b949e; margin: 10px 0;">Another amazing project description goes here.</p>
+    <div style="margin-top: 10px;">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+    </div>
+  </div>
+</div>
 
 <!-- Interactive Game Section -->
 <h2 align="center">🎮 Let's Play!</h2>
@@ -160,6 +196,13 @@ const Soumyadip = {
 <!-- Snake Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+
+<!-- Spotify Now Playing -->
+<h2 align="center">🎵 Vibing to</h2>
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" alt="Spotify Now Playing" />
 </div>
 
 <!-- Connect Section with Dynamic Icons -->
