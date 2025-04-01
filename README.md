@@ -49,7 +49,7 @@
 
 <!-- About Me Section with Cool Animation -->
 <div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
 <br><br>
   <h2>💫 About Me</h2>
 </div>
@@ -121,12 +121,7 @@ const Soumyadip = {
 <!-- Animated Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divinesoumyadip&bg_color=1a1b27&color=FF69B4&line=FF69B4&point=FFFFFF&area=true&hide_border=true" width="100%">
 
-<!-- Dynamic Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Divinesoumyadip/Divinesoumyadip/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divinesoumyadip/Divinesoumyadip/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Divinesoumyadip/Divinesoumyadip/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 <!-- Coding Profiles with Animated Icons -->
 <div align="center">
