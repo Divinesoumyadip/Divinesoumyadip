@@ -58,6 +58,8 @@ const Soumyadip = {
     funFact: "I debug with console.log and refuse to admit it! 😅"
 };
 ```
+<!-- Animated Wave -->
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <!-- Animated Skills -->
 <div align="center">
@@ -73,12 +75,16 @@ const Soumyadip = {
   <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
 </p>
+<!-- Animated Wave -->
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <!-- Dynamic Stats Section -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-7f68-4d9e-9765-c538e10cadd5.png" width="100">
   <h2>📊 Coding Stats</h2>
 </div>
+<!-- Animated Wave -->
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <!-- LeetCode Stats with New Design -->
 <div align="center">
@@ -87,6 +93,8 @@ const Soumyadip = {
     <img src="https://leetcard.jacoblin.cool/Soumyadip_dmp?theme=unicorn&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </div>
+<!-- Animated Wave -->
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <!-- Codeforces Stats with Enhanced Design -->
 <div align="center">
@@ -95,16 +103,22 @@ const Soumyadip = {
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Tier_3_failure&theme=radical&force_username=true" alt="Codeforces Stats" />
   </a>
 </div>
+<!-- Animated Wave -->
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <!-- GitHub Stats with Animation -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Divinesoumyadip&show_icons=true&theme=radical&border_color=FF69B4" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divinesoumyadip&theme=radical&border=FF69B4" alt="GitHub Streak">
 </div>
+<!-- Animated Wave -->
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <!-- Animated Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divinesoumyadip&bg_color=1a1b27&color=FF69B4&line=FF69B4&point=FFFFFF&area=true&hide_border=true" width="100%">
 
+<!-- Animated Wave -->
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 
 <!-- Coding Profiles with Animated Icons -->
@@ -124,6 +138,8 @@ const Soumyadip = {
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&labelColor=2EC866" alt="HackerRank">
   </a>
 </p>
+<!-- Animated Wave -->
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 
 <!-- ICPC Achievement Section with 3D Effect -->
@@ -148,6 +164,10 @@ const Soumyadip = {
     </table>
   </div>
 </div>
+
+<!-- Animated Wave -->
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
 <!-- Featured Projects Section -->
 <h2 align="center">🚀 Featured Projects</h2>
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
@@ -163,7 +183,9 @@ const Soumyadip = {
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
     </div>
   </div>
-  
+  <!-- Animated Wave -->
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
   <!-- Project Card 2 -->
   <div style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 20px; text-align: left;">
     <h3 style="color: #c9d1d9; margin: 0;">
@@ -177,6 +199,8 @@ const Soumyadip = {
     </div>
   </div>
 </div>
+<!-- Animated Wave -->
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <!-- Interactive Game Section -->
 <h2 align="center">🎮 Let's Play!</h2>
@@ -185,6 +209,8 @@ const Soumyadip = {
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=3DABFF&center=true&vCenter=true&width=435&lines=Click+to+see+my+projects!;Let's+build+something+cool!;Innovation+drives+me!;Always+learning%2C+always+growing!" alt="Typing SVG" />
   </a>
 </div>
+<!-- Animated Wave -->
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <!-- GitHub Stats with 3D Contribution Graph -->
 <h2 align="center">📊 GitHub Analytics</h2>
@@ -192,6 +218,8 @@ const Soumyadip = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Divinesoumyadip&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divinesoumyadip&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
+<!-- Animated Wave -->
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <!-- Snake Animation -->
 <div align="center">
@@ -204,6 +232,8 @@ const Soumyadip = {
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" alt="Spotify Now Playing" />
 </div>
+<!-- Animated Wave -->
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <!-- Connect Section with Dynamic Icons -->
 <div align="center">
@@ -218,7 +248,7 @@ const Soumyadip = {
   <a href="https://twitter.com/soumyadip_das" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100" alt="Twitter">
   </a>
-  <a href="mailto:soumyadipdas@gmail.com">
+  <a href="mailto:soumyadipdasmahapatra343@gmail.com">
     <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100" alt="Email">
   </a>
 </p>
@@ -230,4 +260,25 @@ const Soumyadip = {
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF71F1&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%8C%9F;Star+Some+Repos+%E2%AD%90;Follow+for+More+%F0%9F%91%8B" alt="Thanks" />
+</div>
+
+
+
+
+<!-- Footer Quote -->
+<div align="center" style="margin: 20px 0;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+<!-- Support Section -->
+<h2 align="center">☕ Support My Work</h2>
+<div align="center" style="margin: 20px 0;">
+  <a href="https://www.buymeacoffee.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
