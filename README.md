@@ -290,7 +290,7 @@ const Soumyadip = {
 <!-- Support Section -->
 <h2 align="center">☕ Support My Work</h2>
 <div align="center" style="margin: 20px 0;">
-  <a href="https://www.buymeacoffee.com/your-username" target="_blank">
+  <a href="https://www.buymeacoffee.com/your-soumyadipdasmahapatra" target="_blank">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
   </a>
 </div>
