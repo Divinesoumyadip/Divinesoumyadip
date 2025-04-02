@@ -59,8 +59,6 @@ const Soumyadip = {
     funFact: "I debug with console.log and refuse to admit it! 😅"
 };
 ```
-<!-- Animated Wave -->
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <!-- Animated Skills -->
 <div align="center">
@@ -100,8 +98,6 @@ const Soumyadip = {
   
   <h2>📊 Coding Stats</h2>
 </div>
-<!-- Animated Wave -->
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <!-- LeetCode Stats with New Design -->
 <div align="center">
@@ -110,8 +106,6 @@ const Soumyadip = {
     <img src="https://leetcard.jacoblin.cool/Soumyadip_dmp?theme=unicorn&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </div>
-<!-- Animated Wave -->
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <!-- Codeforces Stats with Enhanced Design -->
 <div align="center">
@@ -135,8 +129,6 @@ const Soumyadip = {
 <!-- Animated Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divinesoumyadip&bg_color=1a1b27&color=FF69B4&line=FF69B4&point=FFFFFF&area=true&hide_border=true" width="100%">
 
-<!-- Animated Wave -->
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 
 <!-- Coding Profiles with Animated Icons -->
@@ -214,8 +206,7 @@ const Soumyadip = {
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
     </div>
   </div>
-  <!-- Animated Wave -->
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+ 
 
   <!-- Project Card 2 -->
   <div style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 20px; text-align: left;">
