@@ -129,6 +129,67 @@ const Soumyadip = {
 <!-- Animated Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divinesoumyadip&bg_color=1a1b27&color=FF69B4&line=FF69B4&point=FFFFFF&area=true&hide_border=true" width="100%">
 
+## All DSA Badges @LeetCode
+
+<img src="https://assets.leetcode.com/static_assets/others/Knight.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/1k.gif"  width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/500.gif"  width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/365.gif"  width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-200-lg.png" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2023.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-annual.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-12.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-11.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-08.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-07.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-06.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-05.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-04.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-03.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-02.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-01.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-12.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-11.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-10.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-09.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-08.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-07.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-06.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-05.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-04.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-03.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-02.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-01.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-12.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-11.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-10.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-09.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-08.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-07.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-06.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-05.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-04.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-03.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-02.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/others/LC-75.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/others/%E5%85%A5%E9%97%A8.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/others/DS_II.png" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E5%9F%BA%E7%A1%80.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/others/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE_%E5%85%A5%E9%97%A8.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E5%85%A5%E9%97%A8.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/others/algorithm_II.png" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/others/DP_I.png" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/others/DS_I.png" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/others/algorithm_I.png" width="40px"></img>
+
 
 
 <!-- Coding Profiles with Animated Icons -->
