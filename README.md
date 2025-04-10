@@ -190,6 +190,11 @@ const Soumyadip = {
 <img src="https://assets.leetcode.com/static_assets/others/DS_I.png" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/others/algorithm_I.png" width="40px"></img>
 
+![100daysbadge2025](https://github.com/user-attachments/assets/29bc6470-f203-4973-a950-09a8b269bb92)
+
+
+
+
 
 
 <!-- Coding Profiles with Animated Icons -->
