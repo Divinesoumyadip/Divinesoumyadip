@@ -189,12 +189,13 @@ const Soumyadip = {
 <img src="https://assets.leetcode.com/static_assets/others/DP_I.png" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/others/DS_I.png" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/others/algorithm_I.png" width="40px"></img>
+
 ![100daysbadge2025](https://github.com/user-attachments/assets/29bc6470-f203-4973-a950-09a8b269bb92)
 
 
+![knight](https://github.com/user-attachments/assets/45d970d6-2af2-4b33-8b4c-0b0c4bd4499c)
+![Guardian](https://github.com/user-attachments/assets/8811db42-d0bf-4018-be8f-a81298c12e18)
 
-![Guardian (1)](https://github.com/user-attachments/assets/f1317152-0b3b-4c86-a4c6-6970a82dc7eb)
-![knight](https://github.com/user-attachments/assets/90ee67ad-2c15-4332-afc8-60f647a6eca7)
 
 
 
