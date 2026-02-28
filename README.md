@@ -111,8 +111,8 @@ const Soumyadip = {
 <div align="center">
   <h3>  Codeforces Progress</h3>
 
-  <a href="https://codeforces.com/profile/Tier_3_failure">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Tier_3_failure&theme=radical&force_username=true" alt="Codeforces Stats" />
+  <a href="https://codeforces.com/profile/DIVINESHIELD_Soumya">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=DIVINESHIELD_Soumya&theme=radical&force_username=true" alt="Codeforces Stats" />
   </a>
 </div>
 <!-- Animated Wave -->
